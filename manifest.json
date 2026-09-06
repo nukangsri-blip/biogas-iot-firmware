@@ -1,5 +1,5 @@
 {
-  "version": "2.4.0",
-  "url": "https://github.com/nukangsri-blip/biogas-iot-firmware/releases/download/v2.4.0/BioGas_IoT.ino.bin",
-  "notes": "/threshold ปรับเกณฑ์แจ้งเตือน temp/pH ได้ + debounce กัน pH แกว่งรายวัน + OTA rollback safety"
+  "version": "2.5.1",
+  "url": "https://github.com/nukangsri-blip/biogas-iot-firmware/releases/download/v2.5.1/BioGas_IoT.ino.bin",
+  "notes": "WiFi สำรอง 2 ตัว + /wifi ตั้งรหัสจาก Telegram"
 }
